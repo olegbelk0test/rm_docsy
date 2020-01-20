@@ -1,10 +1,7 @@
 ---
 title: "Інструкція користувача RM"
 linkTitle: "Інструкція користувача RM"
-weight: 1
-menu:
-  main:
-    weight: 1
+weight: 20
 ---
 
 # Інструкція користувача RM
