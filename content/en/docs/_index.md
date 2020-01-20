@@ -23,4 +23,4 @@ Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/
 
 
 
-[RM MANUAL](ToC)
+[RM MANUAL](ToC.md)
