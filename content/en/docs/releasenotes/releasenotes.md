@@ -6,9 +6,6 @@ description: >
   All notable changes to this project will be documented in this file.
 ---
 
-# RM Release Notes
-All notable changes to this project will be documented in this file.
-
 #### [Unreleased] - RM 0.12 (Account improves)
 * массовая загрузка ролей и прав доступов  
   
