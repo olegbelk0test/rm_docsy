@@ -36,8 +36,8 @@ description: >
 
 ___
 
-###[ Версія RM 0.1 (Account) (ua)] &mdash; 2019-01-23
-####Added
+### [Версія RM 0.1 (Account) (ua)] &mdash; 2019-01-23
+#### Added
 
 - Login/Logout (Вхід/Вихід)
   - вхід в систему
