@@ -66,7 +66,7 @@ ___
 ___
 | |
 |-|
-| [До змісту](../ToC.md) |
+| [До змісту](/docs/toc/) |
 
 [Unreleased]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/RES-354-be-bulk-upload-permissions-and-roles
 [Версия RM 0.1 (Account) (ru)]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/release-0.1
