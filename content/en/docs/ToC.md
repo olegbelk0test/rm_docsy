@@ -15,14 +15,3 @@ weight: 1
 ---
 </center>
 
-
-
-<!---
-CSS
--->
-
-<style>
-td {
-  font-size: 20px
-}
-</style>
