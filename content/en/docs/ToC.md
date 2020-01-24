@@ -11,13 +11,3 @@ weight: 1
 | [ 📚Release Notes](/docs/releasenotes/releasenotes/) | 6-й заголовок                                          |
 
 ---
-
-<!---
-CSS
--->
-
-<style>
-td {
-  font-size: 20px
-}
-</style>
