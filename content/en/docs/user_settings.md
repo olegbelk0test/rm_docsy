@@ -8,7 +8,7 @@ weight: 1
 
 1. Відкрийте свій профіль:
     - Натисніть на плашку зі своїм логіном згори лівої панелі ![](https://i.imgur.com/CUlRCkc.png) 
-    - У меню, що відкрилося, натисніть кнопку Профіль ![](https://i.imgur.com/hSyzIif.gif)
+    -\ У меню, що відкрилося, натисніть кнопку Профіль ![](https://i.imgur.com/hSyzIif.gif)
 3. Натисніть ![](https://i.imgur.com/thWgmQZ.png)
 4. Введіть новий пароль у поле ![new_password](https://i.imgur.com/WpG1NWv.png)
 5. Введіть новий пароль ще раз у поле ![confirm_new_password](https://i.imgur.com/UIGTXMN.png)
