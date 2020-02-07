@@ -71,7 +71,7 @@ ___
 #### Зміна пароля адміністратора
 
 1. Знайдіть організацію, в якій потрібно змінити пароль адміністратора, та відкрийте ії в режимі перегляду ![](https://i.imgur.com/9qatUew.png)
-2. Натисніть ![](https://i.imgur.com/thWgmQZ.png)
+2. Натисніть ![](https://i.imgur.com/thWgmQZ.png) під інформацією про адміністратора (контактну особу)
 3. Введіть новий пароль у поле ![new_password](https://i.imgur.com/WpG1NWv.png)
 4. Введіть новий пароль ще раз у поле ![confirm_new_password](https://i.imgur.com/UIGTXMN.png)
 5. Натисніть ![](https://i.imgur.com/MMk5LTd.png)
