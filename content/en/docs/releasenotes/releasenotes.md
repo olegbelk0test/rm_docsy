@@ -113,7 +113,7 @@ ___
 ___
 | |
 |-|
-| [До змісту](/docs/toc/) |
+| [До змісту](/home) |
 
 [Версия RM 0.1 (ru)]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/release-0.1
 [Версія RM 0.1 (ua)]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/release-0.1
