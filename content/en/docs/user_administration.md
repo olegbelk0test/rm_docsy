@@ -78,9 +78,9 @@ ___
 2. Натисніть ![](https://i.imgur.com/thWgmQZ.png)
 3. Введіть новий пароль у поле ![new_password](https://i.imgur.com/WpG1NWv.png)
 4. Введіть новий пароль ще раз у поле ![confirm_new_password](https://i.imgur.com/UIGTXMN.png)
-5. Натисніть ![](https://i.imgur.com/MMk5LTd.png)
+5. Натисніть ![](https://i.imgur.com/MMk5LTd.png):
 
-![](https://i.imgur.com/0ilWy72.gif)
+![](https://i.imgur.com/MJgXM6R.gif)
    
    > Пароль повинен бути від 6 до 255 символів
 
@@ -101,9 +101,9 @@ ___
 1. Знайдіть потрібного користувача та відкрийте його в режимі перегляду ![](https://i.imgur.com/9qatUew.png)
 2. Натисніть ![](https://i.imgur.com/aOuVbDo.png) та оберіть, Заблокувати або Розблокувати користувача:
 
-    ![](https://i.imgur.com/GS10giX.gif)
+    ![](https://i.imgur.com/NhX5JIW.gif)
 
->Якщо заблокований користувач намагається зайти в систему &mdash; він побачить відповідне повідомлення:  
+>Якщо заблокований користувач намагається зайти в систему &mdash; він побачить відповідне повідомлення:  <br/>
 ![](https://i.imgur.com/mzhbHJK.png)
 ___
 | |
@@ -117,9 +117,9 @@ ___
 
 1. Знайдіть потрібного користувача та відкрийте його в режимі редагування ![](https://i.imgur.com/4habIJd.png)
 2. Навпроти назви потрібної організації натисніть ![](https://i.imgur.com/EclVHTe.png)
-3. Натисніть ![](https://i.imgur.com/Die5KUV.png)
+3. Натисніть ![](https://i.imgur.com/Die5KUV.png):
 
-    ![](https://i.imgur.com/w8V94tU.gif)
+    ![](https://i.imgur.com/RpifCZ9.gif)
 
 > Щоб повернутися до списку користувачів без збереження змін, натисніть ![](https://i.imgur.com/YZ6Sefv.png)
 > 
@@ -137,10 +137,11 @@ ___
 2. Навпроти його організації натисніть ![](https://i.imgur.com/aOuVbDo.png) та ![](https://i.imgur.com/3T6AJw0.png)
 3. Оберіть потрібну спеціалізацію з бічного меню. Користувач стане активним ресурсом у обраній організації  та з'явиться на Екрані Ресурсів:
    
-   ![](https://i.imgur.com/plXjaSr.gif)
+   ![](https://i.imgur.com/lQpJg7H.gif)  
 
-   >Для видалення користувача з ресурсів проведіть ті ж дії:
-   ![](https://i.imgur.com/JlFfvNr.gif)
+   >Для видалення користувача з ресурсів проведіть ті ж дії:  
+   >
+   >![](https://i.imgur.com/DxK4OIW.gif)
 
 ___
 | |
