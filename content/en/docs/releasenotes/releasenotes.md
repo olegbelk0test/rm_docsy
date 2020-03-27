@@ -7,7 +7,7 @@ description: >
   All notable changes to this project will be documented in this file.
 ---
 
-### [Версия RM 0.1 (ru)] &mdash; 2019-01-06
+### [Версия RM 0.1 (ru)] &mdash; 2020-01-06
 #### Added
 
 - Login/Logout (Вход/Выход)
@@ -60,7 +60,7 @@ description: >
 
 ___
 
-### [Версія RM 0.1 (ua)] &mdash; 2019-02-06
+### [Версія RM 0.1 (ua)] &mdash; 2020-02-06
 #### Added
 
 - Login/Logout (Вхід/Вихід)
@@ -111,9 +111,34 @@ ___
   - сортування організацій, об'єктів, користувачів
   - кнопки швидкого фільтрування
 ___
+
+### [Версiя Android Crew 0.2 (ua)] &mdash; 2020-03-24
+#### Added
+
+- Login/Logout (Вхід/Вихід)
+  - вхід в систему
+  - вибір організації з доступних для входу
+  - вихід з системи
+
+<br/>
+
+- Executors (Виконавці)
+  - зміна організації
+  - зміна паролю
+
+<br/>
+
+- Requests (Заявки)
+  - перегляд призначених заявок
+  - значок нових заявок
+  - детальний перегляд заявки
+  - зміна статусу заявки
+  - перегляд адреси заявки на мапі
+___
 | |
 |-|
 | [До змісту](/home) |
 
 [Версия RM 0.1 (ru)]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/release-0.1
 [Версія RM 0.1 (ua)]: https://gitlab.rmsoft.io/rm-soft/rm-api/commits/release-0.1
+[Версiя Android Crew 0.2 (ua)]: https://gitlab.rmsoft.io/rm-soft/rm-android-resources
