@@ -123,5 +123,4 @@ The page is divided into structured blocks to help users quickly find key inform
 
 ---
 
-
 💡 *This documentation is illustrative and not affiliated with Comfy.ua.*
