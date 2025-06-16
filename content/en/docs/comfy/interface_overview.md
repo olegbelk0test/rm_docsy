@@ -43,12 +43,11 @@ tags: [UI, registration, login, product page, test assignment]
 ![main_page](./img/comfy/main_page_numbered.png)
 
 | № | Елемент | Опис |
-| - | - | - |
+| :-: | - | - |
 | **1**| Хедер | Верхня панель сайту, використовується для основних дій, [детальніше нижче](#хедер). |
 | **2**| Каталог | Бокове меню для швидкого вибору категорії.</br>Наведіть курсор на потрібну категорію, щоб розкрити її деталі та вибрати необхідну підкатегорію:</br>![catalog](./img/comfy/catalog.gif) |
 | **3**| Акційні банери | Блок банерів знижок та акцій, активних в даний момент. Зверху знаходяться 3 банери активних акцій з переходом на відповідні розділи (Мерч, Розпродаж, Comfy Kids), по центру — блок з візуальних банерів знижок/акцій зі стрілками прокрутки по боках, зліва — банери товарів дня. |
 | **4**| Карусель | Тематичні блоки з добірками популярних товарів по категоріям (КРАЩ, Смартфони, Холодильники, Ноутбуки, і т. д.).</br>Ці блоки допомагають швидко знайти актуальні товари без переходу в каталог:</br>![main_page_scroll](./img/comfy/main_page_scroll.gif) |
-| **5** (відсутній на скриншоті) | Футер | Нижнє меню з різноманітною інформацією: доставка, гарантія, контактна інформація і т. д. |
 
 ---
 
@@ -59,7 +58,7 @@ tags: [UI, registration, login, product page, test assignment]
 ![header](./img/comfy/header.png)
 
 | № | Елемент | Опис |
-| - | - | - |
+| :-: | - | - |
 | **1** | Перемикач мови | Доступні мови інтерфейсу: українська (за замовчуванням) та російська. Натисніть для вибору мови:</br>![change_language](./img/comfy/change_language.gif) |
 | **2** | Геолокація | Вибір міста. На основі міста показується різна доступність товарів, умови доставки та графік магазинів:</br>![select_city](./img/comfy/select_city.gif) |
 | **3** | Логотип COMFY | Клік веде на головну сторінку. |
@@ -117,7 +116,7 @@ Click on any product on the site to open the product detail page:
 The page is divided into structured blocks to help users quickly find key information and complete purchases efficiently:
 
 | No. | Section | Description |
-|-----|---------|-------------|
+| :-: | - | - |
 | **1** | Header | Persistent top navigation bar with logo, search, catalog access, user icons, and help tools. See [Header](#хедер) for more info. |
 | **2** | Breadcrumb Navigation | Displays the full category path. Allows users to return to any parent category. |
 | **3** | Tab Bar | Switches between tabs: **Product Info**, **Specifications**, **Reviews & Questions**, **Accessories**, **Services**, **Availability**. |
