@@ -71,7 +71,7 @@ tags: [UI, registration, login, product page, test assignment]
 2.2 Оберіть, як отримати код підтвердження — СМС або двінок.
 2.3 Введіть **SMS-код** або код з двінка, отриманий на ваш номер:
 
-    ![sms_code](/img/comfy/sms_code.png)
+![sms_code](/img/comfy/sms_code.png)
 
 > Для того, щоб не вводити номер/код кожен раз — можна поставити чекбокс **Запам'ятати мене**.
 
