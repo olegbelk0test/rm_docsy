@@ -19,7 +19,7 @@ tags: [UI, registration, login, product page, test assignment]
 
 Після завантаження ви потрапите на головну сторінку з банерами, пошуком, меню та категоріями товарів:
 
-![main_page](/img/comfy/main_page.png)
+![main_page](./img/comfy/main_page.png)
 
 ---
 
