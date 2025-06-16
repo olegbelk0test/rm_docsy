@@ -4,10 +4,10 @@ author: Oleh Bielkin
 tags: [UI, registration, login, product page, test assignment]
 ---
 
-:::note
+{{< alert color="info" >}}
 *This illustrative guide describes the core functionality and typical issues of an e-commerce user flow using Comfy.ua as an example. The document is bilingual (UA/EN) and showcases key UI patterns, error handling, and core UX logic.*
 *Ця демонстраційна інструкція описує базову функціональність інтерфейсу інтернет-магазину на прикладі Comfy.ua. Документ є двомовним (UA/EN) та ілюструє основні сценарії використання, типові помилки та логіку інтерфейсу.*
-:::
+{{< /alert >}}
 
 ---
 
@@ -56,9 +56,9 @@ tags: [UI, registration, login, product page, test assignment]
 | **7** | Допомога | Навівши курсор, з’являється список каналів підтримки: онлайн-чат, Messenger, Viber, Telegram, телефонні лінії:<br>![help_dropdown](./img/comfy/help_dropdown.png) |
 | **8** | Іконки користувача | - **Увійти / Кабінет** — [авторизація/реєстрація](#3-авторизація--реєстрація) або перехід у профіль.</br>- **Порівняння** — порівняння товарів, доданих в список ![icon_compare](./img/comfy/icon_compare.png).</br>- **Обране** — список збережених позицій.</br>- **Повідомлення** — центр сповіщень.</br>- **Кошик** — перелік обраних для купівлі товарів. |
 
-:::caution
-Якщо користувач не залогінився на сайті — по кліку на **Обране** та **Повідомлення** відкриється попап логіну/реєстрації.
-:::
+{{< alert color="warning" >}}
+Якщо користувач не залогінився на сайті — по кліку на **Обране** та **Повідомлення** відкриється попап [авторизації/реєстрації](#3-авторизація--реєстрація).
+{{< /alert >}}
 
 ---
 
@@ -82,14 +82,16 @@ tags: [UI, registration, login, product page, test assignment]
 
 3.1 Для входу через Google натисніть на відповідну кнопку, увійдіть або оберіть свій акаунт, вкажіть номер телефону для зв'язку з акаунтом, та натіснить **Увійти**.
 
-:::caution Типові помилки під час авторизації/реєстрації:
+{{< alert color="warning" >}}
+Типові помилки під час авторизації/реєстрації:
 
 * **Не введено номер телефону** — *Поле обов'язкове до заповнення*.
 * **Невірний формат номера** — *Необхiдно вiрно вказати код країни +380. Приклад: +380 12 345 6789*.
 * **Не введено SMS-код** — *Поле обов'язкове до заповнення*. Доступна кнопка **«Вислати код ще раз»**.
 * **Неправильно введений номер телефону** — Доступна кнопка **«Змінити номер телефону»**.
 * **Проблеми з мережею** — *Виникла помилка*.
-:::
+{{< /alert >}}
+
 
 ---
 
@@ -124,6 +126,6 @@ The page is divided into structured blocks to help users quickly find key inform
 
 ---
 
-:::note
+{{< alert color="info" >}}
 *This documentation is illustrative and not affiliated with Comfy.ua.*
-:::
+{{< /alert >}}
