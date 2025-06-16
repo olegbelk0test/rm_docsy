@@ -4,10 +4,8 @@ author: Oleh Bielkin
 tags: [UI, registration, login, product page, test assignment]
 ---
 
-{{< alert color="info" >}}
-*This illustrative guide describes the core functionality and typical issues of an e-commerce user flow using Comfy.ua as an example. The document is bilingual (UA/EN) and showcases key UI patterns, error handling, and core UX logic.*
-*Ця демонстраційна інструкція описує базову функціональність інтерфейсу інтернет-магазину на прикладі Comfy.ua. Документ є двомовним (UA/EN) та ілюструє основні сценарії використання, типові помилки та логіку інтерфейсу.*
-{{< /alert >}}
+> *This illustrative guide describes the core functionality and typical issues of an e-commerce user flow using Comfy.ua as an example. The document is bilingual (UA/EN) and showcases key UI patterns, error handling, and core UX logic.*
+> *Ця демонстраційна інструкція описує базову функціональність інтерфейсу інтернет-магазину на прикладі Comfy.ua. Документ є двомовним (UA/EN) та ілюструє основні сценарії використання, типові помилки та логіку інтерфейсу.*
 
 ---
 
